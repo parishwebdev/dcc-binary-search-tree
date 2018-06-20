@@ -1,0 +1,7 @@
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\bin\Debug\DCC-BinarySearchTree.exe.config
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\bin\Debug\DCC-BinarySearchTree.exe
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\bin\Debug\DCC-BinarySearchTree.pdb
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\obj\Debug\DCC-BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\obj\Debug\DCC-BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\obj\Debug\DCC-BinarySearchTree.exe
+C:\Users\Matthew_2\source\repos\DCC\DCC-BinarySearchTree\DCC-BinarySearchTree\obj\Debug\DCC-BinarySearchTree.pdb

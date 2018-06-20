@@ -1,0 +1,8 @@
+Sorting Algorithms Big O Notation:
+
+1(m)
+  O(n log n)
+2(q)
+  O(n²)
+3(i)
+  O(n²)
